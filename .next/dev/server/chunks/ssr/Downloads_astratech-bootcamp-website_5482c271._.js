@@ -974,7 +974,7 @@ function Home() {
         setIsLoading(true);
         try {
             // Replace with your Google Apps Script deployment URL
-            const scriptUrl = "https://script.google.com/macros/d/YOUR_SCRIPT_ID/usercallable";
+            const scriptUrl = "https://script.google.com/macros/s/AKfycbzaadsl7A-qMpHwkuxMRtaKA3ZXe8b8vrVkKT8bipTl1b78kA_0nWuaEeQZXd9EMQ/exec";
             const response = await fetch(scriptUrl, {
                 method: "POST",
                 mode: "no-cors",
@@ -1047,7 +1047,7 @@ function Home() {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$particle$2d$background$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ParticleBackground"], {}, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 106,
+                lineNumber: 105,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
@@ -1064,12 +1064,12 @@ function Home() {
                                         className: "w-6 h-6 text-primary-foreground"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 113,
+                                        lineNumber: 112,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 112,
+                                    lineNumber: 111,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1077,13 +1077,13 @@ function Home() {
                                     children: "Astratech"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 115,
+                                    lineNumber: 114,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 111,
+                            lineNumber: 110,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -1092,18 +1092,18 @@ function Home() {
                             children: "Enquire Now"
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 117,
+                            lineNumber: 116,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                    lineNumber: 110,
+                    lineNumber: 109,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 109,
+                lineNumber: 108,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1118,12 +1118,12 @@ function Home() {
                                 children: "🚀 Launch Your Tech Career"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                lineNumber: 130,
+                                lineNumber: 129,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 129,
+                            lineNumber: 128,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -1136,13 +1136,13 @@ function Home() {
                                     children: "2 Months"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 134,
+                                    lineNumber: 133,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 132,
+                            lineNumber: 131,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1150,7 +1150,7 @@ function Home() {
                             children: "Intensive crash course designed to transform you into a job-ready full-stack developer with real-world projects and industry best practices."
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 138,
+                            lineNumber: 137,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1164,18 +1164,18 @@ function Home() {
                                         className: "ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 147,
+                                        lineNumber: 146,
                                         columnNumber: 34
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                lineNumber: 143,
+                                lineNumber: 142,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 142,
+                            lineNumber: 141,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1188,20 +1188,20 @@ function Home() {
                                             className: "w-5 h-5 text-accent"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 158,
+                                            lineNumber: 157,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             children: "8 Weeks Duration"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 159,
+                                            lineNumber: 158,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 157,
+                                    lineNumber: 156,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1211,20 +1211,20 @@ function Home() {
                                             className: "w-5 h-5 text-accent"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 162,
+                                            lineNumber: 161,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             children: "100% Project-Based"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 163,
+                                            lineNumber: 162,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 161,
+                                    lineNumber: 160,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1234,37 +1234,37 @@ function Home() {
                                             className: "w-5 h-5 text-accent"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 166,
+                                            lineNumber: 165,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             children: "Job Assistance"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 167,
+                                            lineNumber: 166,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 165,
+                                    lineNumber: 164,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 156,
+                            lineNumber: 155,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                    lineNumber: 128,
+                    lineNumber: 127,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 127,
+                lineNumber: 126,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1280,7 +1280,7 @@ function Home() {
                                     children: "Transparent Pricing"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 177,
+                                    lineNumber: 176,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1288,13 +1288,13 @@ function Home() {
                                     children: "Choose the perfect plan for your learning journey"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 178,
+                                    lineNumber: 177,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 176,
+                            lineNumber: 175,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1309,14 +1309,14 @@ function Home() {
                                                 className: "absolute -top-12 -right-12 w-32 h-32 bg-primary/20 rounded-full blur-3xl"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 223,
+                                                lineNumber: 222,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "absolute inset-0 bg-gradient-to-br from-transparent via-transparent to-primary/5"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 224,
+                                                lineNumber: 223,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1329,12 +1329,12 @@ function Home() {
                                                             children: "MOST POPULAR"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 228,
+                                                            lineNumber: 227,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 227,
+                                                        lineNumber: 226,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1342,7 +1342,7 @@ function Home() {
                                                         children: "Intensive Bootcamp"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 230,
+                                                        lineNumber: 229,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1350,7 +1350,7 @@ function Home() {
                                                         children: "Accelerated learning with live support"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 231,
+                                                        lineNumber: 230,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1361,7 +1361,7 @@ function Home() {
                                                                 children: "₹"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 233,
+                                                                lineNumber: 232,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1369,7 +1369,7 @@ function Home() {
                                                                 children: "3,399"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 234,
+                                                                lineNumber: 233,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1377,13 +1377,13 @@ function Home() {
                                                                 children: "/one-time"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 237,
+                                                                lineNumber: 236,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 232,
+                                                        lineNumber: 231,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1396,20 +1396,20 @@ function Home() {
                                                                         className: "w-5 h-5 text-primary flex-shrink-0"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                        lineNumber: 241,
+                                                                        lineNumber: 240,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         children: "All from Self-Paced"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                        lineNumber: 242,
+                                                                        lineNumber: 241,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 240,
+                                                                lineNumber: 239,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1419,20 +1419,20 @@ function Home() {
                                                                         className: "w-5 h-5 text-primary flex-shrink-0"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                        lineNumber: 245,
+                                                                        lineNumber: 244,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         children: "Live daily classes"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                        lineNumber: 246,
+                                                                        lineNumber: 245,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 244,
+                                                                lineNumber: 243,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1442,20 +1442,20 @@ function Home() {
                                                                         className: "w-5 h-5 text-primary flex-shrink-0"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                        lineNumber: 249,
+                                                                        lineNumber: 248,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         children: "1-on-1 mentorship"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                        lineNumber: 250,
+                                                                        lineNumber: 249,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 248,
+                                                                lineNumber: 247,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1465,20 +1465,20 @@ function Home() {
                                                                         className: "w-5 h-5 text-primary flex-shrink-0"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                        lineNumber: 253,
+                                                                        lineNumber: 252,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         children: "Resume review"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                        lineNumber: 254,
+                                                                        lineNumber: 253,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 252,
+                                                                lineNumber: 251,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1488,26 +1488,26 @@ function Home() {
                                                                         className: "w-5 h-5 text-primary flex-shrink-0"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                        lineNumber: 257,
+                                                                        lineNumber: 256,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         children: "Job placement help"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                        lineNumber: 258,
+                                                                        lineNumber: 257,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 256,
+                                                                lineNumber: 255,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 239,
+                                                        lineNumber: 238,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -1519,30 +1519,30 @@ function Home() {
                                                                 className: "ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 265,
+                                                                lineNumber: 264,
                                                                 columnNumber: 32
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 261,
+                                                        lineNumber: 260,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 226,
+                                                lineNumber: 225,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 222,
+                                        lineNumber: 221,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 221,
+                                    lineNumber: 220,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Card"], {
@@ -1555,7 +1555,7 @@ function Home() {
                                                 children: "Premium Plus"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 274,
+                                                lineNumber: 273,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1563,7 +1563,7 @@ function Home() {
                                                 children: "Complete professional package"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 275,
+                                                lineNumber: 274,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1574,7 +1574,7 @@ function Home() {
                                                         children: "₹"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 277,
+                                                        lineNumber: 276,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1582,7 +1582,7 @@ function Home() {
                                                         children: "4,999"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 278,
+                                                        lineNumber: 277,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1590,13 +1590,13 @@ function Home() {
                                                         children: "/one-time"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 279,
+                                                        lineNumber: 278,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 276,
+                                                lineNumber: 275,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1609,20 +1609,20 @@ function Home() {
                                                                 className: "w-4 h-4 text-accent flex-shrink-0"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 283,
+                                                                lineNumber: 282,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                 children: "All from Bootcamp"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 284,
+                                                                lineNumber: 283,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 282,
+                                                        lineNumber: 281,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1632,20 +1632,20 @@ function Home() {
                                                                 className: "w-4 h-4 text-accent flex-shrink-0"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 287,
+                                                                lineNumber: 286,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                 children: "LinkedIn optimization"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 288,
+                                                                lineNumber: 287,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 286,
+                                                        lineNumber: 285,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1655,20 +1655,20 @@ function Home() {
                                                                 className: "w-4 h-4 text-accent flex-shrink-0"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 291,
+                                                                lineNumber: 290,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                 children: "Portfolio review"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 292,
+                                                                lineNumber: 291,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 290,
+                                                        lineNumber: 289,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1678,26 +1678,26 @@ function Home() {
                                                                 className: "w-4 h-4 text-accent flex-shrink-0"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 295,
+                                                                lineNumber: 294,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                 children: "Interview prep"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                                lineNumber: 296,
+                                                                lineNumber: 295,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 294,
+                                                        lineNumber: 293,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 281,
+                                                lineNumber: 280,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -1707,24 +1707,24 @@ function Home() {
                                                 children: "Choose Plan"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 299,
+                                                lineNumber: 298,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 273,
+                                        lineNumber: 272,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 272,
+                                    lineNumber: 271,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 181,
+                            lineNumber: 180,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1734,23 +1734,23 @@ function Home() {
                                 children: "All plans include certificate and lifetime community access"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                lineNumber: 312,
+                                lineNumber: 311,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 311,
+                            lineNumber: 310,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                    lineNumber: 175,
+                    lineNumber: 174,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 174,
+                lineNumber: 173,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1763,7 +1763,7 @@ function Home() {
                             children: "What You'll Learn"
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 320,
+                            lineNumber: 319,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1771,7 +1771,7 @@ function Home() {
                             children: "Comprehensive curriculum covering everything you need to become a professional full-stack developer"
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 321,
+                            lineNumber: 320,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1785,7 +1785,7 @@ function Home() {
                                             className: "w-8 h-8 text-primary mb-4"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 329,
+                                            lineNumber: 328,
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1793,7 +1793,7 @@ function Home() {
                                             children: module.title
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 330,
+                                            lineNumber: 329,
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1801,30 +1801,30 @@ function Home() {
                                             children: module.description
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 331,
+                                            lineNumber: 330,
                                             columnNumber: 19
                                         }, this)
                                     ]
                                 }, idx, true, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 328,
+                                    lineNumber: 327,
                                     columnNumber: 17
                                 }, this);
                             })
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 324,
+                            lineNumber: 323,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                    lineNumber: 319,
+                    lineNumber: 318,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 318,
+                lineNumber: 317,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1837,7 +1837,7 @@ function Home() {
                             children: "Complete Curriculum"
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 342,
+                            lineNumber: 341,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1849,7 +1849,7 @@ function Home() {
                                             className: "w-6 h-6 text-accent flex-shrink-0 mt-1"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 346,
+                                            lineNumber: 345,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1857,29 +1857,29 @@ function Home() {
                                             children: topic
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 347,
+                                            lineNumber: 346,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, idx, true, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 345,
+                                    lineNumber: 344,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 343,
+                            lineNumber: 342,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                    lineNumber: 341,
+                    lineNumber: 340,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 340,
+                lineNumber: 339,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1892,7 +1892,7 @@ function Home() {
                             children: "Why Choose Astratech?"
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 357,
+                            lineNumber: 356,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1910,12 +1910,12 @@ function Home() {
                                                         className: "w-6 h-6 text-primary"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 362,
+                                                        lineNumber: 361,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 361,
+                                                    lineNumber: 360,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1925,7 +1925,7 @@ function Home() {
                                                             children: "Expert Instructors"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 365,
+                                                            lineNumber: 364,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1933,19 +1933,19 @@ function Home() {
                                                             children: "Learn from industry professionals with 10+ years of experience"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 366,
+                                                            lineNumber: 365,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 364,
+                                                    lineNumber: 363,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 360,
+                                            lineNumber: 359,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1957,12 +1957,12 @@ function Home() {
                                                         className: "w-6 h-6 text-primary"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 373,
+                                                        lineNumber: 372,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 372,
+                                                    lineNumber: 371,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1972,7 +1972,7 @@ function Home() {
                                                             children: "Intensive Format"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 376,
+                                                            lineNumber: 375,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1980,19 +1980,19 @@ function Home() {
                                                             children: "Fast-paced learning designed for quick skill acquisition"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 377,
+                                                            lineNumber: 376,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 375,
+                                                    lineNumber: 374,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 371,
+                                            lineNumber: 370,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2004,12 +2004,12 @@ function Home() {
                                                         className: "w-6 h-6 text-primary"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 382,
+                                                        lineNumber: 381,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 381,
+                                                    lineNumber: 380,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2019,7 +2019,7 @@ function Home() {
                                                             children: "Real Projects"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 385,
+                                                            lineNumber: 384,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2027,25 +2027,25 @@ function Home() {
                                                             children: "Build 5+ portfolio-worthy projects during the course"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 386,
+                                                            lineNumber: 385,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 384,
+                                                    lineNumber: 383,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 380,
+                                            lineNumber: 379,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 359,
+                                    lineNumber: 358,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2060,12 +2060,12 @@ function Home() {
                                                         className: "w-6 h-6 text-accent"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 393,
+                                                        lineNumber: 392,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 392,
+                                                    lineNumber: 391,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2075,7 +2075,7 @@ function Home() {
                                                             children: "Job Guarantee"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 396,
+                                                            lineNumber: 395,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2083,19 +2083,19 @@ function Home() {
                                                             children: "Career support and placement assistance after completion"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 397,
+                                                            lineNumber: 396,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 395,
+                                                    lineNumber: 394,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 391,
+                                            lineNumber: 390,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2107,12 +2107,12 @@ function Home() {
                                                         className: "w-6 h-6 text-accent"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 402,
+                                                        lineNumber: 401,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 401,
+                                                    lineNumber: 400,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2122,7 +2122,7 @@ function Home() {
                                                             children: "Lifetime Access"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 405,
+                                                            lineNumber: 404,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2130,19 +2130,19 @@ function Home() {
                                                             children: "Lifetime access to course materials and community support"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 406,
+                                                            lineNumber: 405,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 404,
+                                                    lineNumber: 403,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 400,
+                                            lineNumber: 399,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2154,12 +2154,12 @@ function Home() {
                                                         className: "w-6 h-6 text-accent"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 411,
+                                                        lineNumber: 410,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 410,
+                                                    lineNumber: 409,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2169,7 +2169,7 @@ function Home() {
                                                             children: "Affordable"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 414,
+                                                            lineNumber: 413,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2177,52 +2177,52 @@ function Home() {
                                                             children: "Best-in-class training at an unbeatable price point"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 415,
+                                                            lineNumber: 414,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                    lineNumber: 413,
+                                                    lineNumber: 412,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                            lineNumber: 409,
+                                            lineNumber: 408,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 390,
+                                    lineNumber: 389,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 358,
+                            lineNumber: 357,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                    lineNumber: 356,
+                    lineNumber: 355,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 355,
+                lineNumber: 354,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$resume$2d$review$2d$section$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ResumeReviewSection"], {}, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 423,
+                lineNumber: 422,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$comparison$2d$table$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ComparisonTable"], {}, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 424,
+                lineNumber: 423,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -2235,7 +2235,7 @@ function Home() {
                             children: "Ready to Transform Your Career?"
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 429,
+                            lineNumber: 428,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2243,7 +2243,7 @@ function Home() {
                             children: "Join hundreds of students who have already started their journey with Astratech"
                         }, void 0, false, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 430,
+                            lineNumber: 429,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -2256,24 +2256,24 @@ function Home() {
                                     className: "ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                    lineNumber: 438,
+                                    lineNumber: 437,
                                     columnNumber: 34
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                            lineNumber: 433,
+                            lineNumber: 432,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                    lineNumber: 428,
+                    lineNumber: 427,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 427,
+                lineNumber: 426,
                 columnNumber: 7
             }, this),
             isFormOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2288,7 +2288,7 @@ function Home() {
                                 children: "Get Started"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                lineNumber: 448,
+                                lineNumber: 447,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2296,7 +2296,7 @@ function Home() {
                                 children: submitted ? "Thank you for your interest!" : "Fill in your details and we'll contact you soon"
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                lineNumber: 449,
+                                lineNumber: 448,
                                 columnNumber: 15
                             }, this),
                             !submitted ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -2310,7 +2310,7 @@ function Home() {
                                                 children: "Full Name"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 456,
+                                                lineNumber: 455,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -2323,13 +2323,13 @@ function Home() {
                                                 className: "bg-input border-border rounded-lg"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 457,
+                                                lineNumber: 456,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 455,
+                                        lineNumber: 454,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2339,7 +2339,7 @@ function Home() {
                                                 children: "Email"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 468,
+                                                lineNumber: 467,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -2352,13 +2352,13 @@ function Home() {
                                                 className: "bg-input border-border rounded-lg"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 469,
+                                                lineNumber: 468,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 467,
+                                        lineNumber: 466,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2368,7 +2368,7 @@ function Home() {
                                                 children: "Phone Number"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 480,
+                                                lineNumber: 479,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -2381,13 +2381,13 @@ function Home() {
                                                 className: "bg-input border-border rounded-lg"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 481,
+                                                lineNumber: 480,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 479,
+                                        lineNumber: 478,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2397,7 +2397,7 @@ function Home() {
                                                 children: "Experience Level"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 492,
+                                                lineNumber: 491,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -2412,7 +2412,7 @@ function Home() {
                                                         children: "Select your level"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 500,
+                                                        lineNumber: 499,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2420,7 +2420,7 @@ function Home() {
                                                         children: "Beginner"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 501,
+                                                        lineNumber: 500,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2428,7 +2428,7 @@ function Home() {
                                                         children: "Intermediate"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 502,
+                                                        lineNumber: 501,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -2436,19 +2436,19 @@ function Home() {
                                                         children: "Advanced"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                        lineNumber: 503,
+                                                        lineNumber: 502,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 493,
+                                                lineNumber: 492,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 491,
+                                        lineNumber: 490,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2464,7 +2464,7 @@ function Home() {
                                                             className: "mr-2 w-4 h-4 animate-spin"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                            lineNumber: 514,
+                                                            lineNumber: 513,
                                                             columnNumber: 27
                                                         }, this),
                                                         "Submitting..."
@@ -2472,7 +2472,7 @@ function Home() {
                                                 }, void 0, true) : "Submit"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 507,
+                                                lineNumber: 506,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -2483,19 +2483,19 @@ function Home() {
                                                 children: "Cancel"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                                lineNumber: 521,
+                                                lineNumber: 520,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 506,
+                                        lineNumber: 505,
                                         columnNumber: 19
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                lineNumber: 454,
+                                lineNumber: 453,
                                 columnNumber: 17
                             }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "text-center py-8",
@@ -2504,7 +2504,7 @@ function Home() {
                                         className: "w-16 h-16 text-accent mx-auto mb-4"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 533,
+                                        lineNumber: 532,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2512,7 +2512,7 @@ function Home() {
                                         children: "We've received your enquiry!"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 534,
+                                        lineNumber: 533,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2520,29 +2520,29 @@ function Home() {
                                         children: "Our team will contact you within 24 hours"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                        lineNumber: 535,
+                                        lineNumber: 534,
                                         columnNumber: 19
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                                lineNumber: 532,
+                                lineNumber: 531,
                                 columnNumber: 17
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                        lineNumber: 447,
+                        lineNumber: 446,
                         columnNumber: 13
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                    lineNumber: 446,
+                    lineNumber: 445,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 445,
+                lineNumber: 444,
                 columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$astratech$2d$bootcamp$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
@@ -2553,23 +2553,23 @@ function Home() {
                         children: "© 2025 Astratech. All rights reserved. Master Full Stack Development Today."
                     }, void 0, false, {
                         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                        lineNumber: 546,
+                        lineNumber: 545,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                    lineNumber: 545,
+                    lineNumber: 544,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-                lineNumber: 544,
+                lineNumber: 543,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/Downloads/astratech-bootcamp-website/app/page.tsx",
-        lineNumber: 105,
+        lineNumber: 104,
         columnNumber: 5
     }, this);
 }

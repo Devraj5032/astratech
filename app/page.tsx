@@ -33,8 +33,7 @@ export default function Home() {
 
     try {
       // Replace with your Google Apps Script deployment URL
-      const scriptUrl = "https://script.google.com/macros/d/YOUR_SCRIPT_ID/usercallable"
-
+      const scriptUrl = "https://script.google.com/macros/s/AKfycbzaadsl7A-qMpHwkuxMRtaKA3ZXe8b8vrVkKT8bipTl1b78kA_0nWuaEeQZXd9EMQ/exec"
       const response = await fetch(scriptUrl, {
         method: "POST",
         mode: "no-cors",
